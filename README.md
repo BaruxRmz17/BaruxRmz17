@@ -2,6 +2,8 @@
 
 Soy un apasionado de la **inteligencia artificial**, **desarrollo web** y la **tecnología inclusiva**. Actualmente estudio Ingeniería en Inteligencia Artificial en **Edgehub**, y estoy comprometido con crear soluciones que mejoren la vida de las personas, sin importar sus capacidades físicas o cognitivas.
 
+![Baruc Ramirez - IA Developer](yo.png)
+
 
 ## Sobre Mí
 -  Técnico en Programación — CBTis 168 (2021 - 2024)
